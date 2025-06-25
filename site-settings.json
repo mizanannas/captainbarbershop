@@ -32,20 +32,20 @@
 		"sub_title": "Let's explore the most popular categories"
 	},
 	"site_info": {
-		"site_title": "Ncmaz Nextjs Blog",
-		"site_description": "Ncmaz Nextjs Blog headless WordPress",
-		"site_keywords": "Ncmaz Nextjs Blog",
-		"site_author": "ChisNghiax",
-		"site_email": "Your Email",
-		"site_phone": "Your Phone",
-		"site_address": "Your Address",
-		"site_city": "Your City",
-		"site_state": "Your State",
-		"site_zip": "Your Zip",
-		"site_country": "Your Country",
-		"site_url": "https://www.yoursite.com",
-		"site_logo": "/logo.png",
-		"site_logo_light": "/logo-light.png",
+		"site_title": "Captain Barbershop",
+		"site_description": "The Biggest Luxury Barbershop In Town",
+		"site_keywords": "Captain Barbershop",
+		"site_author": "Sukses Corp Tech",
+		"site_email": "annas.firdausi@suksescorp.co.id",
+		"site_phone": "085719485xxx",
+		"site_address": "Jl. Raya Mangga Besar No.113, Mangga Dua Sel., Kecamatan Sawah Besar, ,  ",
+		"site_city": "Kota Jakarta Pusat",
+		"site_state": "Daerah Khusus Ibukota Jakarta",
+		"site_zip": "10730",
+		"site_country": "Indonesia",
+		"site_url": "https://www.captainbarbershop.id",
+		"site_logo": "/captain-logo.png",
+		"site_logo_light": "/captain-logo.png",
 		"site_favicon": "/favicon.png"
 	},
 	"site_socials": [
@@ -82,7 +82,7 @@
 		}
 	},
 	"site_footer": {
-		"all_rights_reserved_text": "© 2024 BooliiTheme Company, Inc. All rights reserved."
+		"all_rights_reserved_text": "© 2025 PT Captain Asia Sukses. All rights reserved."
 	},
 	"single_page": {
 		"show_view_cout": true,
